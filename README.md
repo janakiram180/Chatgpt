@@ -1,6 +1,4 @@
-Here's a sample README file for your GitHub repository:  
 
----
 
 # ChatGPT Document Q&A Bot  
 
@@ -65,6 +63,3 @@ This repository contains a chatbot application that integrates **ChatGPT** with 
 ## License  
 This project is licensed under the MIT License. See the `LICENSE` file for more details.  
 
----
-
-Let me know if you'd like any changes or additional details!
